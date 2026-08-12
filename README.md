@@ -12,12 +12,26 @@ I love turning ideas into interactive websites and continuously improving my ski
  📚Always learning something new <br>
 
  <b>🛠️TechStack </b>
-
 <b> Front-End </b>
  <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/> </p>
 
 <b> Tools & Other Technologies </b>
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" /> </p>
+
+🚀<b>Featured Projects</b>
+🌐<b> Web Projects </b>
+I am currently building projects to strengthen my Front-End Development skills.<br>
+Some of the things I'm working with:
+
+📱Responsive Web Design
+⚡Interactive User Interfaces
+🎨Modern UI/UX
+⚛️React Applications
+🚀Next.js Applications
+🔌API Integration
+
+
+
 
 
  

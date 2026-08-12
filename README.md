@@ -10,6 +10,16 @@ I love turning ideas into interactive websites and continuously improving my ski
 🎨Interested in clean UI/UX and beautiful web experiences
 🚀Building projects and growing my developer portfolio
  📚Always learning something new
+
+ 🛠️TechStack
+
+ Front-End
+ <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/> </p>
+
+Tools & Other Technologies
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" /> </p>
+
+
  
  
 

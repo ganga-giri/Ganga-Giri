@@ -1,5 +1,9 @@
- Hi there 👋, I am Ganga Giri.<br>
-💻Front-End Developer| React Developer| Building for the Web
+<center> Hi there 👋, I am Ganga Giri.</center> <hr>
+<center>💻Front-End Developer| React Developer| Building for the Web</center>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=gangagiri&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 I'm passionate developer who enjoys creating modern, responsive and user-friendly web experiences. <br>
 I love turning ideas into interactive websites and continuously improving my skills by building real-world projects.

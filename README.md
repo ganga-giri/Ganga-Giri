@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hi there 👋, I am Ganga Giri.
+💻Front-End Developer| React Developer| Building for the Web
 
-<!--
-**ganga-giri/Ganga-Giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I'm passionate developer who enjoys creating modern, responsive and user-friendly web experiences.
+I love turning ideas into interactive websites and continuously improving my skills by building real-world projects.
 
-Here are some ideas to get you started:
+🔭Currently working on Front-End Development
+🌱Learning React, Next.js & modern web development
+💻Building responsive and interactive websites
+🎨Interested in clean UI/UX and beautiful web experiences
+🚀Building projects and growing my developer portfolio
+ 📚Always learning something new
+ 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

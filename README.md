@@ -1,4 +1,4 @@
- Hi there 👋, I am Ganga Giri.
+ Hi there 👋, I am Ganga Giri.<br>
 💻Front-End Developer| React Developer| Building for the Web
 
 I'm passionate developer who enjoys creating modern, responsive and user-friendly web experiences. <br>
@@ -11,7 +11,7 @@ I love turning ideas into interactive websites and continuously improving my ski
 🚀Building projects and growing my developer portfolio <br>
  📚Always learning something new <br>
 
- <b>🛠️TechStack </b>
+ <b>🛠️TechStack </b><br>
 <b> Front-End </b>
  <p> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/> </p>
 
@@ -22,13 +22,22 @@ I love turning ideas into interactive websites and continuously improving my ski
 🌐<b> Web Projects </b> <br>
 I am currently building projects to strengthen my Front-End Development skills.<br>
 Some of the things I'm working with:<br>
-
 📱Responsive Web Design<br>
 ⚡Interactive User Interfaces<br>
 🎨Modern UI/UX<br>
 ⚛️React Applications<br>
 🚀Next.js Applications<br>
 🔌API Integration<br>
+
+📊<b>Github Stats</b>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gangagiri&show_icons=true&theme=tokyonight&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gangagiri&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+
+🔥<b>Github Streak</b>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=gangagiri&theme=tokyonight&hide_border=true" /> </p>
+
+🌐<b>Connect With Me </b>
+<p><a href="https://github.com/ganga-giri"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a></p>
+
 
 
 

@@ -18,17 +18,17 @@ I love turning ideas into interactive websites and continuously improving my ski
 <b> Tools & Other Technologies </b>
 <p> <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" /> </p>
 
-🚀<b>Featured Projects</b>
-🌐<b> Web Projects </b>
+🚀<b>Featured Projects</b> <br>
+🌐<b> Web Projects </b> <br>
 I am currently building projects to strengthen my Front-End Development skills.<br>
-Some of the things I'm working with:
+Some of the things I'm working with:<br>
 
-📱Responsive Web Design
-⚡Interactive User Interfaces
-🎨Modern UI/UX
-⚛️React Applications
-🚀Next.js Applications
-🔌API Integration
+📱Responsive Web Design<br>
+⚡Interactive User Interfaces<br>
+🎨Modern UI/UX<br>
+⚛️React Applications<br>
+🚀Next.js Applications<br>
+🔌API Integration<br>
 
 
 

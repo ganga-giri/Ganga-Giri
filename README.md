@@ -1,5 +1,5 @@
-<center> Hi there 👋, I am Ganga Giri.</center> <hr>
-<center>💻Front-End Developer| React Developer| Building for the Web</center>
+<center><b> Hi there 👋, I am Ganga Giri.</b></center> <hr>
+<center><b>💻Front-End Developer| React Developer| Building for the Web</b></center><br>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=gangagiri&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
